@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sharma Finance</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body { font-family: Arial; background:#0f172a; color:white; text-align:center; }
+input, select { width:90%; padding:10px; margin:10px; border-radius:8px; border:none; }
+button { padding:12px; width:90%; background:#22c55e; border:none; border-radius:8px; color:white; font-size:16px; }
+</style>
+</head>
+
+<body>
+
+<h1>SHARMA FINANCE</h1>
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdg7FZQsGktb40wO4wwlvlbCXruhhQlI-3np6F24b2cNxD-Fg/formResponse" method="POST">
+
+<input name="entry.XXXXX" placeholder="Name" required>
+<input name="entry.XXXXX" placeholder="Mobile Number" required>
+<input name="entry.XXXXX" placeholder="Monthly Income" required>
+<input name="entry.XXXXX" placeholder="CIBIL Score" required>
+
+<button type="submit">Submit</button>
+
+</form>
+
+<br>
+
+<a href="https://wa.me/918128789448">
+<button style="background:#25D366;">WhatsApp</button>
+</a>
+
+</body>
+</html>
